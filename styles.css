@@ -1,0 +1,16 @@
+body {
+    background-color: black
+    
+}
+
+.titlepage {
+    color: violet;
+    text-align: center;
+}
+
+.lists {
+    color: whitesmoke;
+    text-align: left;
+    border: 3px solid whitesmoke;
+   
+}
